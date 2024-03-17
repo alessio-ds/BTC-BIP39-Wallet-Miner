@@ -1,0 +1,12 @@
+BIP39 Seed: 487a440fb26cb376168b6b88a2e46699cb9967bdc4a107fab571f6fdeaab02ea95d149073b3319735c5eace5acafd362edd1ad4c3ac3f655aaa6468973999500
+
+Root key:
+        Address: 15Zpz6hJkSkAiw1A5Sm9UoemCVBCuW1SSP
+        Public : 036830d1cbcecf9e01ce1ddb154ccb754a6a765d06b3b48dced926861e03bd9485
+        Private: KzKjSsprRaWBfVy3oPNwPJBAzVxLXU5AAT5Xe9EJh5pJjpJAqP7q
+
+Child key m/0/0:
+        Address: 1AP5U7iDUrvH8B1m1qiarbkA31Ux7jX8YF
+        Public : 03a78bb2b1fb86280b4091e5cdffc5d8c87430f5c0988e84a7c5d972bb3f1a1b93
+        Private: L47DQmmwwc88oZLPmyZr7CQWn1RzayBmH6gSpnFoMRCCTsR5yRpN
+
